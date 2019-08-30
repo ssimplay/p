@@ -68,7 +68,8 @@ table {
   .pic p img {
     width: 100%; }
   .pic .word .w_img p {
-    margin-top: 2em; }
+    margin-top: 1em;
+    font-size: 12px; }
   .pic .word .w_img img {
     width: 100%; } }
 
