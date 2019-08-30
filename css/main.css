@@ -27,7 +27,9 @@ section {
   margin: 0 1%;
   text-align: center;
   background: rgba(0, 0, 0, 0.5);
-  overflow: hidden; }
+  overflow: hidden;
+  padding: 40px 20px;
+  box-sizing: border-box; }
 
 .pic .word {
   position: relative; }
@@ -52,7 +54,8 @@ section {
 table {
   width: 100%;
   margin-top: 20px;
-  border: 1px solid aliceblue; }
+  border: 1px solid aliceblue;
+  color: aliceblue; }
   table th {
     border: 1px solid aliceblue;
     padding: 8px 0; }
