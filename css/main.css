@@ -31,25 +31,28 @@ section {
   padding: 60px 20px;
   box-sizing: border-box; }
 
-.pic .word {
-  position: relative; }
-  .pic .word .w_img > p {
-    position: absolute;
-    z-index: 10;
-    display: inline-block;
-    margin-top: 200px;
-    font-size: 36px;
-    color: #FF2B87;
-    font-weight: bold;
-    text-shadow: 0 1px 4px #fff; }
-  .pic .word button {
-    text-align: right;
-    max-width: 800px;
-    width: 100%;
-    padding: 8px 12px;
-    font-size: 16px;
-    background: #24253D;
-    color: aliceblue; }
+.pic {
+  margin-bottom: 40px;
+  padding: 44px 0; }
+  .pic .word {
+    position: relative; }
+    .pic .word .w_img > p {
+      position: absolute;
+      z-index: 10;
+      display: inline-block;
+      margin-top: 200px;
+      font-size: 36px;
+      color: #FF2B87;
+      font-weight: bold;
+      text-shadow: 0 1px 4px #fff; }
+    .pic .word button {
+      text-align: right;
+      max-width: 800px;
+      width: 100%;
+      padding: 8px 12px;
+      font-size: 16px;
+      background: #24253D;
+      color: aliceblue; }
 
 table {
   width: 100%;
@@ -68,7 +71,7 @@ table {
   .pic p img {
     width: 100%; }
   .pic .word .w_img p {
-    margin-top: 1em;
+    margin-top: 2em;
     font-size: 12px; }
   .pic .word .w_img img {
     width: 100%; } }
