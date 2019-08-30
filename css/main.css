@@ -28,9 +28,8 @@ section {
   text-align: center;
   background: rgba(0, 0, 0, 0.5);
   overflow: hidden;
-  padding: 40px 20px;
-  box-sizing: border-box;
-  height: 100%; }
+  padding: 60px 20px;
+  box-sizing: border-box; }
 
 .pic .word {
   position: relative; }
